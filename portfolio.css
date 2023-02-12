@@ -1,0 +1,207 @@
+.text-primary {
+    background: #F15B22;
+    border-radius: 5px;
+    color: #FFFFFF;
+    padding: 21px 25px 20px 26px;
+    border: none;
+    font-size: 20px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-around;
+}
+
+.top-right {
+
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    top: 216px;
+    right: 230px;
+    text-align: right;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+
+}
+
+.header-description {
+
+    width: 494px;
+    height: 78px;
+    top: 468px;
+    left: 876px;
+
+
+    right: 230px;
+
+    text-align: right;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+}
+
+/* main section  */
+.main-image {
+
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+    margin-top: 131px;
+
+}
+
+.main-title {
+    font-size: 40px;
+
+}
+
+.main-description {
+
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1178px;
+    margin-top: 370px;
+
+}
+
+
+
+/* plan section start */
+.plan {
+    width: 1141px;
+    height: 299.96px;
+    margin-left: 230px;
+    margin-right: 229px;
+    margin-top: 130px;
+    margin-bottom: 130px;
+
+}
+
+.plan-title {
+    text-align: center;
+    font-size: 45px;
+
+
+}
+
+.plan-section {
+    display: flex;
+    justify-content: space-around;
+}
+
+#icon {
+    color: green;
+}
+
+/* plan sections end  */
+
+/* gradient section start */
+.gradient-image {
+    width: 1140px;
+    height: 300px;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-bottom: 130px;
+    top: 2222.26px;
+    background-image: url("images/watch.png");
+}
+
+.gradient-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    font-size: 60px;
+}
+
+.gradient-text {
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 2241.26px;
+    color: #FFFFFF;
+
+
+}
+
+.gradient-btn {
+    padding: 15px 50px 15px 50px;
+    border-radius: 10px;
+    color: rgb(56, 50, 135);
+    font-weight: 700;
+    font-size: 20px;
+}
+
+/* gradient section end  */
+
+.footer-head {
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-around;
+}
+
+.footer-1 {
+
+    width: 485px;
+    height: 500px;
+    left: 230px;
+    top: 2851.26px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    /* or 162% */
+
+
+    color: #FFFFFF;
+}
+
+.footer-title {
+    color: #F8F8F8;
+    margin-top: 130px;
+    font-size: 45px;
+
+}
+
+.footer-2 {
+
+    width: 325px;
+    height: 204px;
+    left: 1046px;
+    top: 2782.26px;
+
+
+}
+
+.subscribe-title {
+    margin-top: 130px;
+    font-size: 45px;
+}
+
+.subscribe-input {
+    padding: 21px;
+    color: #F3F3F3;
+    background: #151414;
+    padding-right: 158px;
+    margin-bottom: 21px;
+    font-size: 20px;
+}
+
+.Subscribe-btn {
+    padding: 20px 36px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+}
